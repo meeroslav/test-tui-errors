@@ -64,5 +64,6 @@
       "style": "css",
       "unitTestRunner": "jest"
     }
-  }
+  },
+  "bust": 1
 }
